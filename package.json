@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-bounce",
+  "description": "bounce animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "bounce"
+  ],
+  "styles": [
+    "bounce.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
